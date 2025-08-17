@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi 👋, I'm Seba
+A passionate Python and Front-End (and a beginner designer) developer from Brazil
+🔭 I’m currently working on my Python Course
 
-<!--
-**SebastianFernandezOK/SebastianFernandezOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Python, HTML5 and CSS3
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on front-end and back-end projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: brantlauro@gmail.com
+
+⚡ What I like to do: I like so much reading, basketball and skateboarding...and coding of course
+
+Connect with me:
+image image image image
+
+Languages and Tools:
+html5 css3 python javascript linux git
+
+ 
+
+BrantLauro
+
+Last Edited on: 05/08/2021
