@@ -24,7 +24,7 @@
 <p>
 I specialize in building **backend applications and APIs** using Python frameworks like **FastAPI, Django, and Flask**.  
 I also work with **relational databases (PostgreSQL, SQL Server, MySQL)** and I enjoy working on **SaaS, automation, and AI-driven projects**.  
-Outside of coding, I’m passionate about **football ⚽, basketball 🏀, skateboarding 🛹, and reading 📚**.  
+Outside of coding, I’m passionate about **football ⚽ and reading 📚**.  
 </p>
 
 ---
