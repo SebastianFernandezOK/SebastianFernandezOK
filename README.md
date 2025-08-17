@@ -47,7 +47,7 @@ Outside of coding, I’m passionate about **football ⚽ and reading 📚**.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=InvoiceMind&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/SebastianFernandezOK/Printing-Shop-Management-System.git">
+<a href="https://github.com/SebastianFernandezOK/Printing-Shop-Management-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=Imprenta-System&theme=tokyonight" />
 </a>  
 
