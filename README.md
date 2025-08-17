@@ -13,7 +13,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-fernandez-ok/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sebafernandezok/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianfernandez2812@gmail.com)
   
 </div>
@@ -48,6 +47,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
 </p>
+
+## 🚀 Projects  
+
+<a href="https://github.com/SebastianFernandezOK/InvoiceMind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=InvoiceMind&theme=tokyonight" />
+</a>  
+
+<a href="https://github.com/SebastianFernandezOK/Imprenta-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=Imprenta-System&theme=tokyonight" />
+</a>  
+
+<a href="https://github.com/SebastianFernandezOK/Legal-Management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=Legal-Management&theme=tokyonight" />
+</a>  
 
 ---
 
