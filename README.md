@@ -1,52 +1,50 @@
-<h1 align="center">Hi 👋, I'm Seba <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Software Developer Engineer | Backend & Web Development</h3>
+## Hi, I’m Seba <h1 align="center">Hi 👋, I'm Seba <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-- 🔭 I’m currently working as a **Software Developer**  
-- 🌱 I’m currently learning and improving my skills in **FastAPI, Flask, Django, and relational databases**  
-- 👯 I’m looking to collaborate on **backend, web applications, and API-based projects**  
-- 📫 How to reach me: **sebastianfernandez2812@gmail.com**  
-- ⚡ Outside of coding: **I enjoy football, reading, basketball, skateboarding, and exploring new tech**  
-
----
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-fernandez-ok/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianfernandez2812@gmail.com)
-  
-</div>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sql server" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;Backend+%26+Web+Development;FastAPI+|+Django+|+Flask" />
   </a>
 </p>
+
+<p align ="center">
+  <a href="mailto:sebastianfernandez2812@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sebastian-fernandez-ok" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+  <a href="https://www.instagram.com/sebafernandezok/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+  </a>
+</p>
+
+<p>
+I specialize in building **backend applications and APIs** using Python frameworks like **FastAPI, Django, and Flask**.  
+I also work with **relational databases (PostgreSQL, SQL Server, MySQL)** and I enjoy working on **SaaS, automation, and AI-driven projects**.  
+Outside of coding, I’m passionate about **football ⚽, basketball 🏀, skateboarding 🛹, and reading 📚**.  
+</p>
+
+---
+
+## 🛠 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
+---
 
 ## 🚀 Projects  
 
@@ -58,17 +56,30 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=Imprenta-System&theme=tokyonight" />
 </a>  
 
-<a href="https://github.com/SebastianFernandezOK/Legal-Management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SebastianFernandezOK&repo=Legal-Management&theme=tokyonight" />
-</a>  
+---
+
+## 📊 Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Seba's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SebastianFernandezOK&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianFernandezOK&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SebastianFernandezOK" height="192px"/>
+  <br/>
+  </p>
+</details>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SebastianFernandezOK&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SebastianFernandezOK&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianFernandezOK&theme=react&layout=compact" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="snake animation" />
 </p>
-
-------
-
-⭐️ From [SebastianFernandezOK](https://github.com/SebastianFernandezOK)
