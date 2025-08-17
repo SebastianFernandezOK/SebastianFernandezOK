@@ -6,18 +6,17 @@ A passionate Python and Front-End (and a beginner designer) developer from Brazi
 
 👯 I’m looking to collaborate on front-end and back-end projects
 
-📫 How to reach me: brantlauro@gmail.com
+📫 How to reach me: sebastianfernandez2812@gmail.com
 
-⚡ What I like to do: I like so much reading, basketball and skateboarding...and coding of course
+⚡ What I like to do: I like so much reading, football and skateboarding...and coding of course
 
 Connect with me:
 image image image image
 
 Languages and Tools:
-html5 css3 python javascript linux git
+
 
  
 
-BrantLauro
 
-Last Edited on: 05/08/2021
+
