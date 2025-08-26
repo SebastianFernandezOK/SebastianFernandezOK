@@ -1,4 +1,4 @@
-## Hi, I’m Seba <h1 align="center">Hi 👋, I'm Seba <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+ <h1 align="center">Hi 👋, I'm Seba <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
